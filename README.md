@@ -35,4 +35,4 @@ O script principal executa diversas operações essenciais de recuperação e ma
 4. Execute o arquivo de consultas (`queries.sql`) para testar os filtros e relatórios descritos.
 
 ---
-*Desenvolvido por [Seu Nome] – Estudante de ADS no Senac.*
+*Desenvolvido por [Guilherme Carvalho] – Estudante de TDS no Senac.*
