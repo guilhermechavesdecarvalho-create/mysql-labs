@@ -1,6 +1,6 @@
 # 🛒 TechStore Escape - MySQL Database & Queries
 
-Este repositório contém a modelagem e os scripts SQL desenvolvidos para o banco de dados **TechStore Escape**[cite: 1, 2], criado como parte das atividades práticas do curso de **Tecnico em Desenvolvimento de Sistemas (TDS)** no **Senac**.
+Este repositório contém a modelagem e os scripts SQL desenvolvidos para o banco de dados **TechStore Escape**, criado como parte das atividades práticas do curso de **Tecnico em Desenvolvimento de Sistemas (TDS)** no **Senac**.
 
 ## 🎯 Objetivo do Projeto
 O projeto simula o ecossistema de dados de um ambiente corporativo/comercial fictício, estruturando tabelas relacionais para gerenciar funcionários, clientes, produtos, usuários, acessos e logs de alterações no sistema. O foco principal foi a aplicação prática de comandos DQL (`SELECT`) avançados, filtros lógicos, ordenação e restrições.
