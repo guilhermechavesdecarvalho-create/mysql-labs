@@ -10,8 +10,6 @@ select nome, cidade from clientes;
 select * from produtos
 where nome = 'notebook gamer';
 
-
-
 /* PRODUTOS CAROS: listar produtos com preço estritamente maior que R$ 1000 */
 select * from produtos 
 where preco > '1000';
@@ -42,9 +40,6 @@ where setor = 'ti' and salario > '4000';
 /* ACESSO ALTERNATIVO: listar funcionarios pertencentes ao setor 'TI' OU  ao setor 'Administrativo' */
 select * from funcionarios
 where setor = 'TI' or setor = 'Administracao';
-
-
-
 
 /* O NOME MISTERISO: descobrir os clientes cujo nome começa com 'Jo' */
 select nome from clientes
