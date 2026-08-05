@@ -16,7 +16,7 @@ O banco de dados `techstore_escape` é composto pelas seguintes tabelas principa
 ## 💻 Consultas SQL Desenvolvidas (`queries.sql`)
 O script principal executa diversas operações essenciais de recuperação e manipulação de dados, tais como:
 
-1. **Consultas Básicas:** Exibição geral de registros de funcionários e projeção de colunas específicas (`nome` e `cidade`) de clientes[cite: 2].
+1. **Consultas Básicas:** Exibição geral de registros de funcionários e projeção de colunas específicas (`nome` e `cidade`) de clientes.
 2. **Filtros por Condição Exata:** Busca por produtos específicos (ex: 'notebook gamer') e restrições numéricas (`WHERE preco > 1000` e `estoque < 10`).
 3. **Filtros por Texto e Padrões (`LIKE` e `IN`):** 
    - Localização de usuários administradores com `LIKE '%admin%'`.
