@@ -24,6 +24,13 @@ O projeto está dividido em subdiretórios, cada um representando um laboratóri
   * Agendamento de consultas, serviços e controle de prontuários/atendimentos.
   * Gestão de profissionais veterinários e insumos.
 
+    ### 3. 📚 [03-Livraria](./03-Livraria)
+* **Objetivo:** Modelar o ecossistema de dados para uma livraria ou sistema de gerenciamento de biblioteca (`BookStore`).
+* **Principais Funcionalidades / Escopo:**
+  * Cadastro de livros, autores, editoras e categorias/gêneros literários.
+  * Gestão de clientes e controle de vendas, empréstimos ou histórico de aquisições.
+  * Consultas complexas para livros mais vendidos, estoque por editora e relatórios de faturamento.
+
 ---
 
 ## 🚀 Como Executar os Projetos
